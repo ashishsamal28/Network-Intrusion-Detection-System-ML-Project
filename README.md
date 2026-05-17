@@ -1,6 +1,4 @@
 # Network-Intrusion-Detection-System-ML-Project
-Machine learning-based network intrusion detection system that classifies network traffic as normal or malicious using the KDD/NSL-KDD dataset.
-# Network Intrusion Detection System
 
 A complete machine learning pipeline for detecting network intrusions using the **NSL-KDD dataset**. The project classifies network traffic into 5 categories — Normal, DoS, Probe, R2L, and U2R — by comparing 6 different ML classifiers.
 
